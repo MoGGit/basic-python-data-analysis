@@ -14,4 +14,5 @@ Basic practices in data science and data analysis
   boxplot, 
   catplot, 
   scatterplot with hue.
-  
+# combine_Rows.ipynb
+  combine datas from three csv dataset
