@@ -6,12 +6,12 @@ Basic practices in data science and data analysis
 # Simple_percentage_calculation.py
   this program calculates compound percentage calculation
 # seaborn Visualization
-  using dataset to practice :
-  displot
-  scatterplot
-  jointplot
-  pairplot
-  boxplot
-  catplot
-  scatterplot with hue
+  using dataset to practice : 
+  displot, 
+  scatterplot, 
+  jointplot, 
+  pairplot, 
+  boxplot, 
+  catplot, 
+  scatterplot with hue.
   
