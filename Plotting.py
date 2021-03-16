@@ -1,7 +1,0 @@
-print("test")
-print ("all I want is  to see what I can do with this tool")
-print ("is this something easy to do or it is more complicated than this I think we don't need to keep looking for the right key this should happend on the fly")
-print ("why human brain think so complicated")
-print ("it is very good idea to using vim ctrl R to run the program")
-print ("why some times it is getting mess")
-print ("ok")
